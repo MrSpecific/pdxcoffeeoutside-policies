@@ -46,7 +46,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. If
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please report them to the [#pdxcoffeeoutside Instagram account](https://www.instagram.com/pdxcoffeeoutside/), or individually to one of the four moderators ([@mrspecific](https://www.instagram.com/mrspecific), [@attackcowboy](https://www.instagram.com/attackcowboy/), [@molly.sugar](https://www.instagram.com/molly.sugar) and [@brettlovesfreya](https://www.instagram.com/brettlovesfreya)).
 
-[LINK_TO_REPORTING_GUIDELINES]
+[Full reporting guidelines here](https://github.com/MrSpecific/pdxcoffeeoutside-policies/blob/master/reporting_guidelines.md)
 
 
 ## 7. Scope
