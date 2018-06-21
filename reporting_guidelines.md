@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the #pdxcoffeeoutside Instagram account, or individually to one of the four moderators (@mrspecific, @attackcowboy, @molly.sugar and @brettlovesfreya). 
+If you believe someone is violating the code of conduct we ask that you report it to the #pdxcoffeeoutside Instagram account, or individually to one of the four moderators (@mrspecific, [@attackcowboy](https://www.instagram.com/attackcowboy/), @molly.sugar and @brettlovesfreya). 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
