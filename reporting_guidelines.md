@@ -30,7 +30,7 @@ Once the team has a complete account of the events they will make a decision as 
 * Nothing (if we determine no code of conduct violation occurred).
 * A private reprimand from the moderators to the individual(s) involved.
 * An imposed vacation (i.e. asking someone to "take a week off" from joining us at our Friday gatherings).
-* A permanent or temporary ban from some or all #pdxcoffeeoutside spaces (events, instagram accounts)
+* A permanent or temporary ban from some or all #pdxcoffeeoutside spaces (events, instagram accounts, etc.)
 
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but our response will be determined by what will be best for community safety.
